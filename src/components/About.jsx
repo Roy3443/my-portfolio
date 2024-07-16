@@ -1,5 +1,5 @@
 import React from "react";
-
+//About
 const About = () => {
   return (
     <div id="about" className="w-full pt-14 bg-black text-white">
