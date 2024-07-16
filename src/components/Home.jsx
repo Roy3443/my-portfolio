@@ -52,7 +52,7 @@ const Home = () => {
           </div>
           <div>
             <a
-              href="/Resume_Roy_Joshua_Lasrado.pdf"
+              href="Resume_Roy_Joshua_Lasrado.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-gray-500 to-gray-700 cursor-pointer"
