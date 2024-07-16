@@ -1,0 +1,9 @@
+{
+    "builds": [
+      { "src": "package.json", "use": "@vercel/node" }
+    ],
+    "routes": [
+      { "src": "/resume.pdf", "dest": "/Resume_Roy_Joshua_Lasrado.pdf" }
+    ]
+  }
+  
